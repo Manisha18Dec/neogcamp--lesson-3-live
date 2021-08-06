@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 :root{
-    --primary-color:red;
+    --primary-color:#7C3AED;
 }
 body{
     font-family:"Montserrat",
@@ -20,6 +20,9 @@ body{
     text-decoration:none;
     padding:0.5rem 1rem;
 
+}
+hr{
+    margin:3rem 0rem;
 }
 .link-primary{
     background-color:var(--primary-color);
